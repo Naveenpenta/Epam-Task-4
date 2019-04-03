@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class SparseArrays {
 
     static int[] matchingStrings(String[] strings, String[] queries) {
         //Length of the Queries
